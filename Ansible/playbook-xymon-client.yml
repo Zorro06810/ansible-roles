@@ -1,9 +1,0 @@
-- hosts: all
-  gather_facts: yes
-  become: true
-  vars:
-    xymon_server_address: 192.168.160.25
-    xymon_client_user_group: xymon
-  roles:  
-    - xymon-client   # install xymon client
-    
