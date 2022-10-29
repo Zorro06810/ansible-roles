@@ -1,0 +1,4 @@
+#- { name: 'orange.ansible_helpers' }
+#- { name: 'orange.ubuntu' }
+#- { name: 'orange.docker' }
+- { name: 'xymon-client' }
