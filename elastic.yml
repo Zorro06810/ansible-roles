@@ -47,5 +47,4 @@
       node.ingest: false
       node.ml: false
       cluster.remote.connect: false
-      bootstrap.memory_lock: true
-      
+      bootstrap.memory_lock: true   
