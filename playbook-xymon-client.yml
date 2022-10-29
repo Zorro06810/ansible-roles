@@ -6,3 +6,4 @@
     xymon_client_user_group: xymon
   roles:  
     - xymon-client   # install xymon client
+    
